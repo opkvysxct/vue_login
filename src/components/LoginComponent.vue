@@ -82,7 +82,7 @@ form {
 	height: 25%;
 	width: 18%;
 	position: absolute;
-	border-radius: 2%;
-	box-shadow: -15px 16px 11px -4px rgba(12, 12, 12, 0.5);
+	border-radius: 5%;
+	box-shadow: -15px 15px 12px -4px rgba(12, 12, 12, 0.5);
 }
 </style>
